@@ -1,6 +1,6 @@
 # Zenn Articles
 
-[Zenn](https://zenn.dev/minarai_niwashi) に投稿している記事のソースを管理するリポジトリです。
+[Zenn](https://zenn.dev/minarai_niwashi) に投稿している記事を管理するリポジトリです。
 
 ## How to use
 
